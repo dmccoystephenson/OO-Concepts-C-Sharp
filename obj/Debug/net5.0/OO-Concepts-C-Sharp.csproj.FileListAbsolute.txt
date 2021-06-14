@@ -1,0 +1,16 @@
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\bin\Debug\net5.0\OO-Concepts-C-Sharp.exe
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\bin\Debug\net5.0\OO-Concepts-C-Sharp.deps.json
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\bin\Debug\net5.0\OO-Concepts-C-Sharp.runtimeconfig.json
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\bin\Debug\net5.0\OO-Concepts-C-Sharp.runtimeconfig.dev.json
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\bin\Debug\net5.0\OO-Concepts-C-Sharp.dll
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\bin\Debug\net5.0\ref\OO-Concepts-C-Sharp.dll
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\bin\Debug\net5.0\OO-Concepts-C-Sharp.pdb
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\obj\Debug\net5.0\OO-Concepts-C-Sharp.csproj.AssemblyReference.cache
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\obj\Debug\net5.0\OO-Concepts-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\obj\Debug\net5.0\OO-Concepts-C-Sharp.AssemblyInfoInputs.cache
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\obj\Debug\net5.0\OO-Concepts-C-Sharp.AssemblyInfo.cs
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\obj\Debug\net5.0\OO-Concepts-C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\obj\Debug\net5.0\OO-Concepts-C-Sharp.dll
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\obj\Debug\net5.0\ref\OO-Concepts-C-Sharp.dll
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\obj\Debug\net5.0\OO-Concepts-C-Sharp.pdb
+C:\Users\dstephenson\vs-projects\OO-Concepts-C-Sharp\obj\Debug\net5.0\OO-Concepts-C-Sharp.genruntimeconfig.cache
